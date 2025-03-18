@@ -88,3 +88,5 @@ async function main() {
     console.log("Server is running on Port 3000");
   });
 }
+
+module.exports = app;
